@@ -10,9 +10,3 @@ for i in range(len(menbers)):
 Hello {menbers[i]}
            I have found a biger dinner table"""
 )
-
-# people = """
-# Hello guys!
-#            I have found a biger dinner table"""
-
-# print(people)
